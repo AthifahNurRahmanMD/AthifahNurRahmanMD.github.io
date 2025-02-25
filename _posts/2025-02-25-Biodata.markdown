@@ -1,0 +1,41 @@
+```markdown
+---
+title: "Biodata"
+date: 2025-02-25
+---
+
+# Biodata
+
+## Personal Information
+- **Name:** Athifah Nur Rahman
+- **Date of Birth:** [Your Date of Birth]
+- **Address:** [Your Address]
+- **Email:** [Your Email]
+- **Phone:** [Your Phone Number]
+
+## Education
+- **[Year] - [Year]:** [Your School/University Name]
+  - Degree: [Your Degree]
+  - Major: [Your Major]
+
+## Skills
+- [Skill 1]
+- [Skill 2]
+- [Skill 3]
+
+## Experience
+- **[Job Title]** at **[Company Name]**
+  - *[Start Date] - [End Date]*
+  - Responsibilities:
+    - [Responsibility 1]
+    - [Responsibility 2]
+
+## Achievements
+- [Achievement 1]
+- [Achievement 2]
+
+## Hobbies
+- [Hobby 1]
+- [Hobby 2]
+
+```
