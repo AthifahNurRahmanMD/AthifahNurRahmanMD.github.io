@@ -1,7 +1,7 @@
 ---
 title: A Simple Black Jack with HTML and JavaScript
 image:
-  path: "/assets/images/BlackJack.jpg"
+  path: "/assets/images/BlackJack.png"
 categories: [Projects, Web App]
 ---
 
