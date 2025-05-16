@@ -9,7 +9,7 @@ categories: [Projects, Web App]
 
 🎮 Players begin the game with 5000 virtual money. Each round, they place bets and try to beat the dealer by getting a card total closest to 21 without going over.
 
-💸 One of the key features is the deposit system: when players run out of money, they can "borrow" or request additional funds to continue playing. This mimics the risk-reward mechanics found in real-life casino scenarios, while adding a unique game-flow element to keep users engaged.
+💸 One of the key features is the deposit system: when players run out of money, they can "borrow" or request additional funds to continue playing.
 
 🛠️ The game is fully built using:
 - **HTML** for structure  
