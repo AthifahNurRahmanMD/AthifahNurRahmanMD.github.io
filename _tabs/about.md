@@ -21,6 +21,6 @@ Currently studying Information Systems and enjoy learning new things, especially
 ## 🌐 Connect With Me:
 - [GitHub](https://github.com/AthifahNurRahmanMD)  
 - [Email Me](mailto:mdanr23h@student.unhas.ac.id)  
-- [Instagram](=https://www.instagram.com/atfhnr_/)
+- [Instagram](https://www.instagram.com/atfhnr_/)
 
 ---
