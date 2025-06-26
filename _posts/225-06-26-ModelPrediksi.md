@@ -3,13 +3,14 @@ title: Data Mining - Prediction Model
 description: Predictive Model Development for Boarding House Rental Prices in Makassar
 image:
   path: "/assets/images/dataminingprojectsgroup.png"
-categories: [Blogs]
+categories: [Projects, Data Mining]
 tags: [Python, XGBoost Regressor, Scikit-Learn, Geopy, Matplotlib, Seaborn, Selenium, Pandas, Numpy]
 ---
 
 # Predictive Model Development for Boarding House Rental Prices in Makassar Using Data Mining Techniques
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
 ## 📋 Project Description
 
