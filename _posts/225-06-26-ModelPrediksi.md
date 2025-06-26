@@ -10,7 +10,6 @@ tags: [Python, XGBoost Regressor, Scikit-Learn, Geopy, Matplotlib, Seaborn, Sele
 # Predictive Model Development for Boarding House Rental Prices in Makassar Using Data Mining Techniques
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
 
 ## 📋 Project Description
@@ -103,7 +102,7 @@ kos-price-prediction/
 │
 ├── requirements.txt            # Dependencies
 ├── README.md                   # Documentation
-└── LICENSE                     # License file
+<!-- └── LICENSE                     # License file -->
 ```
 
 ## 📈 Methodology
