@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MathRent-website
-description: Overview of MathRent, a digital rental management system for the Mathematics Department of Hasanuddin University
+description: A digital rental management system for the Mathematics Department of Hasanuddin University
 image:
   path: "/assets/images/MathRent.png"
 categories: [Project, Web App]
@@ -10,11 +10,9 @@ tags: [React, JSX, TailwindCSS, FastAPI, Python, JavaScript, Web-Application, Un
 
 > **Note:** This project is still under active development.
 
-## 🔍 What is MathRent?
-
 MathRent is a modern, web-based rental management system built to streamline and digitize the equipment borrowing process at the Mathematics Department of Hasanuddin University 🎓.
 
-✨ Gone are the days of physical KTM handovers and messy paper forms.
+✨ Gone are the days of physical KTM(Kartu Tanda Mahasiswa) handovers and messy paper forms.
 
 With **React**, **TailwindCSS**, and **FastAPI** under the hood, MathRent offers a borrowing experience that’s:
 
