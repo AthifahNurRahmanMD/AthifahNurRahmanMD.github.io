@@ -53,7 +53,6 @@ These may include system design documents, requirement specifications, or other 
 - Ensures the test plan remains aligned with the main project documents.  
 - Provides supporting material if interpretation differences occur.  
 - Strengthens the consistency and validity of the testing process.
-
 ---
 
 ### 3. Introduction

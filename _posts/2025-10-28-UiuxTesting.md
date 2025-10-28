@@ -15,7 +15,6 @@ This article provides a comprehensive understanding of UI and UX testing, their 
 ---
 
 ## Understanding the Difference Between UI and UX Testing
-
 Although UI and UX are often mentioned together, they evaluate distinct qualities within a product.
 
 **UI Testing** focuses on the **visual and interactive elements** of an application — such as color, layout, icons, buttons, and typography. Its goal is to ensure consistency, responsiveness, and visual accuracy across platforms and devices.
