@@ -237,6 +237,6 @@ It allows the team to manage resources efficiently, identify risks early, and ma
 
 ---
 
-🔗 **[View Group 3 Testing Plan Slides →](https://drive.google.com/file/d/1Pjx6n08veg7o6P-4LjazQCGOx29xH-YS/view?usp=sharing)**
+🔗 **[View Group 3 Testing Plan Slides](https://drive.google.com/file/d/1Pjx6n08veg7o6P-4LjazQCGOx29xH-YS/view?usp=sharing)**
 
 ---

@@ -212,4 +212,4 @@ By understanding the testing lifecycle and its classifications, teams can build 
 
 ---
 
-🔗**[View Group 1 Presentation Slides →](https://drive.google.com/file/d/1bNFmdW8ePz_z0VM0660SZU4meSBaxc9c/view?usp=sharing)**
+🔗**[View Group 1 Testing Strategy Slides](https://drive.google.com/file/d/1bNFmdW8ePz_z0VM0660SZU4meSBaxc9c/view?usp=sharing)**

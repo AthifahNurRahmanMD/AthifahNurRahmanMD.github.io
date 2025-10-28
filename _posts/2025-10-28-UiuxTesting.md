@@ -166,6 +166,6 @@ UI and UX testing complement each other to ensure a product is not only function
 Together, they bridge the gap between design and user satisfaction, ensuring software that people genuinely enjoy using.
 
 ---
-🔗**[View Group 2 UI/UX Testing Slides →](https://drive.google.com/file/d/12N-ugshIQSDrLutsQgo-qsxfjeBa3daP/view?usp=sharing)**
+🔗**[View Group 2 UI/UX Testing Slides](https://drive.google.com/file/d/12N-ugshIQSDrLutsQgo-qsxfjeBa3daP/view?usp=sharing)**
 
 ---
