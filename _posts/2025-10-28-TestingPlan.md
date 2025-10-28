@@ -9,7 +9,7 @@ tags: ["STQA", "Software Testing", "Test Plan", "Quality Assurance"]
 
 # Software Testing Plan
 
-A **Testing Plan** (Rencana Pengujian) is a guiding document that explains how the software testing process will be conducted.  
+A **Testing Plan** is a guiding document that explains how the software testing process will be conducted.  
 It defines the **scope, approach, resources, schedule, and responsibilities** to ensure that software testing is carried out effectively, efficiently, and consistently across all stages of development.
 
 ---

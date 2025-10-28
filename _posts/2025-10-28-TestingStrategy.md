@@ -1,6 +1,6 @@
 ---
 title: "STQA - Testing Strategy"
-description: "A comprehensive exploration of software testing strategies — from SDLC fundamentals to lifecycle phases, classifications, and real-world implementation for ensuring software quality and reliability."
+description: "A comprehensive exploration of software testing strategies from SDLC fundamentals to lifecycle phases, classifications, and real-world implementation for ensuring software quality and reliability."
 image:
   path: "/assets/images/testingstrategy.png"
 categories: [Blogs, Software Testing]
